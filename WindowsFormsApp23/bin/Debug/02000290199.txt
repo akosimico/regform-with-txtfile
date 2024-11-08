@@ -1,0 +1,7 @@
+Student No.: System.Windows.Forms.TextBox, Text: 02000290199
+FUll Name: System.Windows.Forms.TextBox, Text: Barnedo, System.Windows.Forms.TextBox, Text: Mico, System.Windows.Forms.TextBox, Text: H
+Program: System.Windows.Forms.ComboBox, Items.Count: 5
+Gender: System.Windows.Forms.ComboBox, Items.Count: 3
+Age: System.Windows.Forms.TextBox, Text: 2012331232
+Birthday: System.Windows.Forms.DateTimePicker, Value: 11/8/2012 11:02:26 AM
+Contact No.: System.Windows.Forms.TextBox, Text: 092493293

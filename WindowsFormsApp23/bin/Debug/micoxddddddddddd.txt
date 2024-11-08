@@ -1,0 +1,7 @@
+Student No.: System.Windows.Forms.TextBox, Text: 34234
+FUll Name: System.Windows.Forms.TextBox, Text: xZa, System.Windows.Forms.TextBox, Text: ghrwqe, System.Windows.Forms.TextBox, Text: ew
+Program: System.Windows.Forms.ComboBox, Items.Count: 5
+Gender: System.Windows.Forms.ComboBox, Items.Count: 3
+Age: System.Windows.Forms.TextBox, Text: 21
+Birthday: System.Windows.Forms.DateTimePicker, Value: 11/8/2024 11:04:45 AM
+Contact No.: System.Windows.Forms.TextBox, Text: 23213
